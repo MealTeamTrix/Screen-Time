@@ -1,9 +1,8 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
-
-## Description
-Optional section to provide a more detailed overview of the project.
+This project is the Average Daily Scren Time for Children from Kaggle. The purpose of this project is to perform EDA on the data to find meaningful insights.
 
 ## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
+All packages are located in the requirments.txt
+
+Data is located in the data folder.
 
